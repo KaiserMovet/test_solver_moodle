@@ -1,4 +1,4 @@
 # test_solver_moodle
  
- Create 'login.yml' with 'login' and 'password' keys
- Create 'data' folder
+ 1. Create 'login.yml' with 'login' and 'password' keys
+ 2. Create 'data' folder
